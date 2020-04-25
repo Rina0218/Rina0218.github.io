@@ -1,0 +1,20 @@
+.wrapper { background-color: #ffddbb;
+           width: 100%;
+           margin-left: auto;
+           margin-right: auto;
+           padding: 30px;
+}
+header {
+        background-color: #ffaabb;
+}
+h2 {
+    background-color:#ffaabb;
+}
+
+h1 {color: green;}
+h2 {color: green;}
+
+img { margin-left: auto;
+      margin-right: 550px;
+      padding: 18px;
+}
